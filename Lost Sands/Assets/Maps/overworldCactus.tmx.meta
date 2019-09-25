@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: f675927a7982bac43ad9069487fa2166
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/overworldCactus
+    400000: _MapPrfab/overworldCactus/Transform
+    11400000: _MapPrfab/overworldCactus/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _superAsset
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/overworldCactus/Grid
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors:
+  - 'Missing tileset asset: ../../../tiles.tsx'
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

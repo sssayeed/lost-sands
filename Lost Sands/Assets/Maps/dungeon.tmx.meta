@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: c154435b7649bfb45af8dedbe2be21d0
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/dungeon
+    400000: _MapPrfab/dungeon/Transform
+    11400000: _MapPrfab/dungeon/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _superAsset
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/dungeon/Grid
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors:
+  - 'Missing tileset asset: ../../../tiles.tsx'
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 32
+  edgesPerEllipse: 32
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

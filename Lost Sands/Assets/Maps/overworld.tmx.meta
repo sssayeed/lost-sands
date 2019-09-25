@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 98a93b38cefe59940ab4614339f8e75b
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/overworld
+    400000: _MapPrfab/overworld/Transform
+    11400000: _MapPrfab/overworld/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _superAsset
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/overworld/Grid
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors:
+  - 'Missing tileset asset: ../../../tiles.tsx'
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

@@ -1,0 +1,24 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'pyramid_mesh_0002.obj'
+
+# Vertices (Count = 4)
+v -896 -64 0
+v -928 -64 0
+v -928 -32 0
+v -896 -32 0
+
+# Texture cooridinates (Count = 4)
+vt 0.2916667 0.009708762
+vt 0.425 0.009708762
+vt 0.425 0.1650485
+vt 0.2916667 0.1650485
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g pyramid_mesh_0002
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+
